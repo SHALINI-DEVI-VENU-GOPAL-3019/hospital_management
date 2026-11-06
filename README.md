@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Hospital Stock Management System (MediStock Pro)
 
 A modern, full-stack **MERN (MongoDB Atlas, Express.js, React.js with Vite, Node.js)** hospital inventory and medical supplies management application. Designed with a clean healthcare aesthetic (navy blue, light blue, white), robust role-based authentication, real-time stock telemetry, automated low-stock and expiry warnings, and audit-ready reporting.
@@ -307,3 +308,6 @@ npm run build --prefix frontend
 ```
 
 The generated production bundle will be located in `frontend/dist/`.
+=======
+# hospital_management
+>>>>>>> d3acc17f8820ec1846f666eb7349a80e7c944cc8
